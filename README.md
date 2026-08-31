@@ -1,37 +1,65 @@
-<pre>
-$ neofetch
+<div align="center">
 
-        ╭──────────────────────────────────────────────╮
-        │                                              │
-        │   Aditya Sharma                              │
-        │   Electronics & VLSI Engineer                │
-        │                                              │
-        │   OS:          VLSI / Semiconductor          │
-        │   Host:        Electronics & Embedded        │
-        │   Focus:       Analog • Mixed-Signal • ASIC │
-        │   Languages:   C • C++ • Python • MATLAB     │
-        │   HDL:         Verilog • VHDL • SystemVerilog│
-        │   EDA:         Cadence • Synopsys • Vivado   │
-        │   Hardware:    FPGA • STM32 • MSP430         │
-        │                                              │
-        ╰──────────────────────────────────────────────╯
+Aditya Sharma
+Electronics & VLSI Engineer
+</div>
 
-$ ls projects/
+<table> <tr> <td width="42%" valign="top">
 
-  01  Sigma-Delta ADC
-  02  Multi-Rail PMIC
-  03  mmWave Beamforming AFE
-  04  RF Mixer
-  05  High-Performance FIR Filter
-  06  64-bit RISC-V ALU
-</pre>
+<img src="./ascii-portrait.svg" width="100%" alt="ASCII portrait">
 
-<br>
+</td>
+
+<td width="58%" valign="top">
+
+adityasharma@github
+-------------------
+
+OS:          Electronics / VLSI
+Host:        Semiconductor Design
+Focus:       Analog • Mixed-Signal • ASIC
+
+Languages:
+  C • C++ • Python • MATLAB
+
+HDL:
+  Verilog • SystemVerilog • VHDL
+
+EDA:
+  Cadence • Synopsys • Vivado
+  MATLAB • Simulink • KiCad
+
+Hardware:
+  FPGA • STM32 • MSP430
+  Embedded Systems
+
+Interests:
+  Analog IC Design
+  Mixed-Signal ICs
+  VLSI / ASIC
+  RF & Semiconductor Design
+</td> </tr> </table>
+
+./projects
+Project	Area
+High-Performance Sigma-Delta ADC	Analog / Mixed-Signal
+Advanced PMIC	Power Management
+mmWave Beamforming AFE	RF / Analog
+Multi-Channel Mixer	RF IC
+128-Tap FIR Filter	FPGA / Digital
+64-bit RISC-V ALU	RTL / Digital Design
+./github
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PanditAdityaJi&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanditAdityaJi&layout=compact&theme=tokyonight&hide_border=true" height="165">
+
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PanditAdityaJi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanditAdityaJi&layout=compact&theme=tokyonight&hide_border=true" height="180">
+Analog IC • Mixed Signal • VLSI • ASIC • FPGA • Embedded
 
 </div>
+
