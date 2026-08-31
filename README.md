@@ -1,65 +1,49 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
 
-Aditya Sharma
-Electronics & VLSI Engineer
-</div>
+<pre align="center">
+yourname@github
+----------------
+OS: ....................... Linux / Windows / macOS
+Uptime: .................... X years, Y months in tech
+Host: ....................... [Your College / Company]
+Kernel: ..................... Electronics & VLSI Enthusiast
+IDE: ......................... VS Code, Vivado / Quartus
 
-<table> <tr> <td width="42%" valign="top">
+Languages.Programming: ....... Verilog, Python, C, C++
+Languages.Real: .............. English, Hindi
 
-<img src="./ascii-portrait.png" width="100%" alt="ASCII portrait">
+Hobbies.Hardware: ............ PCB Design, VLSI, Digital Logic
+Hobbies.Software: ............ Open Source, Automation
 
-</td>
+Contact
+Email.Personal: .............. you@example.com
+LinkedIn: .................... linkedin.com/in/yourhandle
+GitHub: ....................... github.com/yourhandle
 
-<td width="58%" valign="top">
+GitHub Stats
+Repos: ........................ 0 (Contributed: 0) | Stars: 0
+Commits: ...................... 0 | Followers: 0
+Lines of Code on GitHub: ...... 0
+</pre>
 
-adityasharma@github
--------------------
+<pre align="center">
+        ░░░░░░░░░░░░░░░░░░░░
+      ░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░
+    ░░▓▓░░░░░░░░░░░░░░░░▓▓░░
+    ░░▓▓░░██░░░░░░░░██░░▓▓░░
+    ░░▓▓░░░░░░░░░░░░░░░░▓▓░░
+    ░░▓▓░░░░████████░░░░▓▓░░
+    ░░▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░
+      ░░░░░░░░░░░░░░░░░░░░
+        ██──────────────██
+        ██  VLSI ░ PCB  ██
+        ██──────────────██
+</pre>
 
-OS:          Electronics / VLSI
-Host:        Semiconductor Design
-Focus:       Analog • Mixed-Signal • ASIC
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourhandle&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-Languages:
-  C • C++ • Python • MATLAB
-
-HDL:
-  Verilog • SystemVerilog • VHDL
-
-EDA:
-  Cadence • Synopsys • Vivado
-  MATLAB • Simulink • KiCad
-
-Hardware:
-  FPGA • STM32 • MSP430
-  Embedded Systems
-
-Interests:
-  Analog IC Design
-  Mixed-Signal ICs
-  VLSI / ASIC
-  RF & Semiconductor Design
-</td> </tr> </table>
-
-./projects
-Project	Area
-High-Performance Sigma-Delta ADC	Analog / Mixed-Signal
-Advanced PMIC	Power Management
-mmWave Beamforming AFE	RF / Analog
-Multi-Channel Mixer	RF IC
-128-Tap FIR Filter	FPGA / Digital
-64-bit RISC-V ALU	RTL / Digital Design
-./github
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=PanditAdityaJi&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanditAdityaJi&layout=compact&theme=tokyonight&hide_border=true" height="165">
-
-</div>
-
-<div align="center">
-
-Analog IC • Mixed Signal • VLSI • ASIC • FPGA • Embedded
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourhandle&theme=radical" alt="GitHub Streak" />
+</p>
