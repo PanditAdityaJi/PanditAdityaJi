@@ -6,7 +6,7 @@ Electronics & VLSI Engineer
 
 <table> <tr> <td width="42%" valign="top">
 
-<img src="./ascii-portrait.svg" width="100%" alt="ASCII portrait">
+<img src="./ascii-portrait.png" width="100%" alt="ASCII portrait">
 
 </td>
 
