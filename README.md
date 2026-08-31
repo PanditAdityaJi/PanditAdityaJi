@@ -25,3 +25,13 @@ $ ls projects/
   05  High-Performance FIR Filter
   06  64-bit RISC-V ALU
 </pre>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PanditAdityaJi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanditAdityaJi&layout=compact&theme=tokyonight&hide_border=true" height="180">
+
+</div>
